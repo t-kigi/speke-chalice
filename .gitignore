@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# personal config file
+src/.chalice/config.json
+src/.chalice/policy-dev.json
+src/.chalice/deployed/dev.json
+
